@@ -1,1 +1,1 @@
-# big_data
+# AD1511 - Big Data Analytics Laboratory
